@@ -1,0 +1,22 @@
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.exe.config
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo_Adjunta.Menu.resources
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo_Adjunta.Resources.resources
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.xml
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.exe
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.pdb
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.xml
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.exe
+C:\Users\Eduardo\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.pdb
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.exe.config
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.exe
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.xml
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.pdb
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.exe
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.pdb
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\bin\Debug\Metodo Adjunta.xml
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.vbprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo_Adjunta.Matriz_3x3.resources
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo_Adjunta.Resources.resources
+C:\Users\Joel\Desktop\Metodo Adjunta\Metodo Adjunta\obj\Debug\Metodo Adjunta.vbproj.GenerateResource.Cache
